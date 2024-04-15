@@ -1,9 +1,9 @@
-### Hi there, I'm Amen ! 😄
+# Hi there, I'm Amen ! 😄
 I'm a Computer Science student, my interest in networks lies in their role in modern communication and digital infrastructure. 
 From studying network protocols to implementing security measures, I'm dedicated to mastering the complexities of network architecture and diving deep into CyberSecurity . 
 
 
-### 📦 Toolbox
+# 📦 Toolbox
 Network Essentials: Linux GNS3 PacketTracer
 
 Network Administration and Monitoring: Wireshark SNMP TIG Plateform (Telegraf influxdb Graphana )
@@ -19,7 +19,7 @@ Backend Development:SpringBoot Nest.js
 Others: SQL Talend 
 
 
-### 💬 Contact
+# 💬 Contact
 For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/amen-dhouibi-a1b172304/).
 
 <!--
