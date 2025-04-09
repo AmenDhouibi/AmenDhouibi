@@ -14,7 +14,7 @@
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 75px height=75px></h2>
 
-<img width="55%" align="right" alt="Github" src="https://github.com/AmenDhouibi/AmenDhouibi/blob/main/Github%20Vector%20Art%20PNG%2C%20Github%20Icon%20Design%20Vector%2C%20Github%20Icons%2C%20Behance%2C%20Communication%20PNG%20Image%20For%20Free%20Download.jpg" />
+<img width="55%" align="right" alt="Github" src="https://github.com/AmenDhouibi/AmenDhouibi/blob/main/a5b0d5367a2083890ecf0b2903363ff2.jpg" />
 
 
 ⚙️ Building infrastructure and monitoring with Kubernetes & Prometheus.
