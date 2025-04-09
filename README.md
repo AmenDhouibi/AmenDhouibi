@@ -3,7 +3,7 @@
 <img width="100%" height = "250px" src="https://github.com/AmenDhouibi/AmenDhouibi/blob/main/This%20pin%20is%20all%20about%20coding.gif" alt="cover" />
 </div>
 
-<h1> Hello ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px height=50px> </h1>
+<h1> Hello ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px height=40px> </h1>
   
 <div size='20px'> WELCOME! My name is Amen, Network and Telecom student at <a href="https://www.linkedin.com/school/national-institute-of-applied-science-and-technology/" target="_blank"><b>INSAT</b></a> and Thank You for taking the time to view my GitHub Profile
   <a href="https://komarev.com/ghpvc/?username=AmenDhouibi">
@@ -14,7 +14,7 @@
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 60px height=60px></h2>
 
-<img width="50%" height="50%" align="right" alt="Github" src="https://github.com/AmenDhouibi/AmenDhouibi/blob/main/helloworld.gif" />
+<img width="50%" height="40%" align="right" alt="Github" src="https://github.com/AmenDhouibi/AmenDhouibi/blob/main/helloworld.gif" />
 
 
 ⚙️ Building infrastructure and monitoring with Grafana & Prometheus.
@@ -42,6 +42,6 @@
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-<h2> Keep in touch with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height=50px> </h2>
+<h2> Keep in touch with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40px" height=40px> </h2>
 <a href = 'https://www.linkedin.com/in/amen-dhouibi-a1b172304/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <br>
