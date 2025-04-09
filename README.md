@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="100%" height = "250px" src="https://github.com/FarahTrigui/FarahTrigui/blob/main/Pixilart%20-%20Live%20on.gif" alt="cover" />
+<img width="100%" height = "250px" src="https://github.com/AmenDhouibi/AmenDhouibi/blob/main/This%20pin%20is%20all%20about%20coding.gif" alt="cover" />
 </div>
 
 <h1> Hello ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px height=50px> </h1>
@@ -14,7 +14,7 @@
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 75px height=75px></h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://github.com/AmenDhouibi/AmenDhouibi/blob/main/Github%20Vector%20Art%20PNG%2C%20Github%20Icon%20Design%20Vector%2C%20Github%20Icons%2C%20Behance%2C%20Communication%20PNG%20Image%20For%20Free%20Download.jpg" />
 
 
 ⚙️ Building infrastructure and monitoring with Kubernetes & Prometheus.
