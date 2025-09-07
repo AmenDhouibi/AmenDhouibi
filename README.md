@@ -18,11 +18,11 @@
 
 > I'm a final-year Engineering Student with a deep passion for **DevOps, Cloud Computing, and Automation**.
 
-My focus is on bridging the gap between development and operations. I enjoy building scalable and resilient infrastructure from the ground up using **Infrastructure as Code** tools like **Terraform** and **Ansible**. I'm particularly interested in:
+My focus is on bridging the gap between development and operations by building scalable and resilient infrastructure from the ground up using **Infrastructure as Code (IaC)**. I am driven by the principles of efficiency, and I'm particularly interested in:
 
-* ⚙️ Automating the entire software lifecycle with **CI/CD pipelines** using tools like **Jenkins** and **GitLab CI**.
-* 📊 Implementing robust **monitoring and observability** solutions with **Prometheus** & **Grafana**.
-* ☁️ Leveraging **cloud-native technologies** like Docker and Kubernetes to build efficient systems.
+* ⚙️ Automating the software lifecycle with robust **CI/CD pipelines**.
+* 📊 Implementing comprehensive **monitoring and observability** strategies to ensure system health.
+* ☁️ Leveraging **cloud-native technologies**, such as containerization and orchestration, to build modern applications.
 
 I'm always eager to learn and contribute to projects that solve real-world problems. Let’s connect!
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height=32px> </h2>
