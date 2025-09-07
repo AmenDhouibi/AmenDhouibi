@@ -5,25 +5,24 @@
 
 <h1> Hello ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px height=40px> </h1>
   
-<div size='20px'> WELCOME! My name is Amen, Network and Telecom student at <a href="https://www.linkedin.com/school/national-institute-of-applied-science-and-technology/" target="_blank"><b>INSAT</b></a> and Thank You for taking the time to view my GitHub Profile
+<div size='20px'> WELCOME! My name is Amen, ICT Engineering student at <a href="https://www.linkedin.com/school/national-institute-of-applied-science-and-technology/" target="_blank"><b>INSAT</b></a> and Thank You for taking the time to view my GitHub Profile
   <a href="https://komarev.com/ghpvc/?username=AmenDhouibi">
   <img align="right" src="https://komarev.com/ghpvc/?username=AmenDhouibi&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 </div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 60px height=60px></h2>
+## About Me 👨‍💻
 
-<img width="20%" height="10%" align="right" alt="Github" src="https://github.com/AmenDhouibi/AmenDhouibi/blob/main/helloworld.gif" />
+> I'm a final-year Engineering Student with a deep passion for **DevOps, Cloud Computing, and Automation**.
 
+My focus is on bridging the gap between development and operations. I enjoy building scalable and resilient infrastructure from the ground up using **Infrastructure as Code** tools like **Terraform** and **Ansible**. I'm particularly interested in:
 
-⚙️ Building infrastructure and monitoring with Grafana & Prometheus.
+* ⚙️ Automating the entire software lifecycle with **CI/CD pipelines** using tools like **Jenkins** and **GitLab CI**.
+* 📊 Implementing robust **monitoring and observability** solutions with **Prometheus** & **Grafana**.
+* ☁️ Leveraging **cloud-native technologies** like Docker and Kubernetes to build efficient systems.
 
-🚀 Leveling up in DevOps with tools like Jenkins, Ansible and Terraform.
-
-🤓 Always excited to co-create CI/CD pipelines and streamline cloud operations.
-
-💡 Passionate about DevOps, cloud tech, and infrastructure as code—let’s connect anytime: amen_dhouibi@yahoo.com !
+I'm always eager to learn and contribute to projects that solve real-world problems. Let’s connect!
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height=32px> </h2>
 <table>
