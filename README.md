@@ -14,7 +14,7 @@
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 60px height=60px></h2>
 
-<img width="40%" height="30%" align="right" alt="Github" src="https://github.com/AmenDhouibi/AmenDhouibi/blob/main/helloworld.gif" />
+<img width="20%" height="10%" align="right" alt="Github" src="https://github.com/AmenDhouibi/AmenDhouibi/blob/main/helloworld.gif" />
 
 
 ⚙️ Building infrastructure and monitoring with Grafana & Prometheus.
